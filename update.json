@@ -1,5 +1,40 @@
 {
-  "url":"https://raw.githubusercontent.com/hzjjet/9988wallet/master/iDuoBao.apk",
-  "versionCode":7,
-  "updateMessage":"1. 适配 Android 8.0\n2. 适配 Android 9.0\n3. 更新说明"
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Windows. Go on...",
+      "mandatory": true
+    },
+    "osx": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Mac OS X. Go on...",
+      "mandatory": true
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Linux. Go on...",
+      "mandatory": true
+    },
+    "ios": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for iOS. Go on...",
+      "mandatory": true
+    },
+    "android": {
+      "open-url": "",
+      "latest-version": "1.0",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Android. Go on...",
+      "mandatory": true
+    }
+  }
 }
+
