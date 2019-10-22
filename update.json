@@ -4,7 +4,7 @@
       "open-url": "",
       "latest-version": "1.0.0.100",
       "download-url": "https://raw.githubusercontent.com/hzjjet/9988wallet/master/iDuoBao.apk",
-      "changelog": "This is an example changelog for Windows. Go on...",
+      "changelog": "1. 适配 Android 8.0\n2. 适配 Android 9.0\n3. 更新说明",
       "mandatory": true
     }
     
