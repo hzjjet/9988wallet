@@ -1,11 +1,19 @@
 {
   "updates": {
+    "status": 0,
     "windows": {
       "open-url": "",
       "latest-version": "1.0.0.100",
       "download-url": "https://raw.githubusercontent.com/hzjjet/9988wallet/master/9988Wallet.apk",
       "changelog": "1. 适配 Android 8.0\n2. 适配 Android 9.0\n3. 更新说明\n\n发布日期：2019年10月23日",
       "mandatory": true
+      "patch": {
+        "download-url": "https://raw.githubusercontent.com/hzjjet/9988wallet/master/patch.zip",
+        "targetVersion": [
+          {"version": "1.0.0.89"},
+          {"version": "1.0.0.92"}
+        ]
+      }
     }
     
   }
