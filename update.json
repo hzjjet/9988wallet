@@ -3,7 +3,7 @@
     "status": 0,
     "windows": {
       "open-url": "",
-      "latest-version": "1.0.0.150",
+      "latest-version": "1.1.0.150",
       "download-url": "https://raw.githubusercontent.com/hzjjet/9988wallet/master/9988Wallet.apk",
       "changelog": "1. 增加屏保功能\n2. 在线自动升级\n3. 修改若干BUG\n\n发布日期：2019年10月26日",
       "mandatory": true,
